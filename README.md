@@ -1,4 +1,4 @@
-# Hello, I'm Sonia Teolo
+# Hello, I'm Sonia
 <a href="linkedin.com/in/sonia-teolo-5564513a5 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a cybersecurity professional with over 4 years of experience in Security Operations Center (SOC) environments, specializing in threat detection, security monitoring, and incident response. I'm passionate about defending systems against cyber threats, continuously sharpening my technical skills, and exploring new cybersecurity technologies. I'm currently expanding my hands-on experience through practical SOC labs, security investigations, and real-world cybersecurity projects.
